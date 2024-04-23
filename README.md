@@ -1,4 +1,4 @@
-# LinkedIn: Navigating Career Success - CS777 Term Project
+# LinkedIn: Navigating Career Success - CS777 Term Project - Team 9
 
 ## Getting Started
 After cloning this repo, run the following commands from the root directory:
