@@ -1,0 +1,13 @@
+bs4
+requests
+lxml
+pandas
+openpyxl
+selenium
+pydantic
+pytest
+structlog
+seaborn
+pyspark
+matplotlib
+scikit-learn
