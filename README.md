@@ -7,6 +7,12 @@ After cloning this repo, run the following commands from the root directory:
 2. Activate the virtual venv: `source venv/bin/activate`
 3. Install the required dependencies: `pip3 install -r requirements.txt`
 
+## Environment Set Up
+The code was executed in Google Collab with the data stored on the drives.
+
+## How to run the code
+Ensure that the required libraries are installed and the data is present at the drive location mentioned in the code.
+
 ## Our Data
 We decided to scrape LinkedIn public profiles for our dataset. We have structured our dataset into the following JSON structure.
 
