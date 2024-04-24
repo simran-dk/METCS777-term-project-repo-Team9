@@ -18,6 +18,8 @@ We decided to scrape LinkedIn public profiles for our dataset. We have structure
 
 Using PySpark we were to read in the structured data, load into a dataframe and rdd and run analysis.
 
+Dataset can be found here: `s3://metcs777-termproject-team9/data/raw_data_large.tar.gz`
+
 ```python
 root
  |-- activity: struct (nullable = true)
