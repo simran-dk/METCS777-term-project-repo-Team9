@@ -45,3 +45,11 @@ root
  |    |-- element: string (containsNull = true)
  |-- skills_count: long (nullable = true)
 ```
+
+## The Results
+We decided to train our data using two seperate approaches, a supervised learning approach and an unsupervised learning approach.
+The final report will go into more details about the specifics, but results and outputs for boths models can be found here: 
+
+**Model 1:** [Decision Tree Classifier Outputs](Prediction_using_dt_classifier.ipynb)
+
+**Model 2:** [K-Means Clustering Outputs](clustering_using_kmeans.ipynb)
