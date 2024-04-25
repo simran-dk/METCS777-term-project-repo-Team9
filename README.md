@@ -62,4 +62,11 @@ The final report will go into more details about the specifics, but results and 
 
 **Model 2:** [K-Means Clustering Outputs](clustering_using_kmeans.ipynb)
 
-![K-Means elbow](kmeans-clustering-elbow.png)
+### Finding Optimal K
+![K-Means elbow](./k-means-results/elbow.jpg)
+
+### Clustering Results
+
+![View 1](k-means-results/view1.jpg)
+![View 2](k-means-results/view2.jpg)
+![View 3](k-means-results/view3.jpg)
